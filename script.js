@@ -1,4 +1,4 @@
-function addTask(){
+function addTask() {
   document.querySelector('#criar-tarefa');
 }
 
