@@ -1,4 +1,4 @@
 .completed {
   text-decoration: line-through solid black;
-    background-image: url("test");
+  background-image: url('test');
 }
